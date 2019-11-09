@@ -1,2 +1,1 @@
-# Notes---Digital-Image-Processing
-Notes  about Digital Image Processing
+# Record some important concepts and knowledge while I am reading *Digital Image Processing*
