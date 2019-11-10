@@ -24,7 +24,10 @@ into a wider range of output levels. The opposite is true of higher values of in
 Described as follows:
 
 * expand the values of dark pixels
-* compress the higher-level values
+* compress the higher-level values  
+
+But it's capbility in this aspect is not as good as **Gamma Transformation** (the next section)  
+Instead, it is used to **tighten the range in spectrum** more frequently.
 ## Power-Law (Gamma) Transformations
 $$
 s = c r^\gamma
