@@ -45,3 +45,10 @@ Besides, **gamma correction** is very useful in image capture, printing, and dis
 ## Piecewise-Linear Transformation Functions
 It's a complementary approach to the previous three sections , and its form can be arbitrarily  
 complex, which is its advantage.
+There are 3 major components:
+* Contrast stretching
+> You can simply set the position of (r1, s1) and (r2, s2) to expand the range of intensity levels in an image differently.
+* Intensity-level slicing
+> Highlighting a specific range of intensities in an image often is of interest.
+* Bit-plane slicing
+> To choose and show a certain bit plane from Bit plane 1(the least significant) to Bit plane 8(the most significant).
